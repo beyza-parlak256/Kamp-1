@@ -48,7 +48,7 @@ namespace Metodlar
 }
 // Metodlar bize tekrar tekrar kod bloklarını kullanmayı sağlar
 // Dont repeat yourself - DRY - Kendini tekrar etme
-// Clean Code - Best Practise - Doğru uyfulama metodu
+// Clean Code - Best Practise - Doğru uygulama metodu
 
 
 
